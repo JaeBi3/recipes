@@ -1,6 +1,8 @@
 # Lemon Pepper Fettuccine
 Adapted from [The Cook Up with Adam Liaw](https://www.sbs.com.au/food/the-cook-up-with-adam-liaw/recipe/lemon-pepper-haloumi-pasta/ksojyco5m)
 
+Serves 8-20 based on how generous your portion sizes are.
+
 ## Ingredients
 - 1000 g dry fettuccine or other pasta (2 packs *Woolworths* brand)
 - 6 L water
@@ -21,11 +23,16 @@ Adapted from [The Cook Up with Adam Liaw](https://www.sbs.com.au/food/the-cook-u
 - tongs
 - knife
 - cutting board
-- collander or strainer
 - cheese grater
 - micro grater for lemon rind
 - small bowl for the lemon juice and rind
 - paper towel to dry the capers
+- strainer
+
+> [!NOTE]
+> Use a strainer for the pasta, not a colander.
+>
+> If you use a colander, you'll lose most of the spinach out of the larger holes. 
 
 ## Overview (see method below for detailed instructions)
 1. Boil water in stock pot & heat oil in saucepan.
@@ -46,7 +53,9 @@ Adapted from [The Cook Up with Adam Liaw](https://www.sbs.com.au/food/the-cook-u
 3. Remove the capers from the jar and pat dry with a paper towel. Add them to the oil once hot enough (Test by throwing a single caper in. It should imediately sizzle loudly) and cover with lid. Use a heat-safe slotted spoon to remove from the oil as soon as the capers stop making noise.
    
 > [!WARNING]
-> The capers will generate a lot of steam when they first hit the oil. Plan accordingly so you don't get burnt
+> The capers will generate a lot of steam when they first hit the oil.
+>
+> Plan accordingly so you don't get burnt
 
 5. While the capers are cooking:
    - grate the rind of the lemon and juice it; keep separate
@@ -61,9 +70,15 @@ Adapted from [The Cook Up with Adam Liaw](https://www.sbs.com.au/food/the-cook-u
 > If the oil is too hot, the lemon juice may cause steam and sputtering, so make sure you have the lid ready to go back on quick.
 
 9. Once the pasta is done, use tongs to transfer the pasta straight into the oil pot in order to transfer some of the starchy water.
-10. Once most of the pasta has been transferred (or the saucepan is full), drain the rest of the pasta/spinach mixture and place back in stock pot.
-11. Transfer everything in the saucepan to the stock pot and toss to combine.
-12. Serve topped with cheese, capers, and parsley (if using).
+
+> [!WARNING]
+> If the pasta fwhips around during the transfer, it will likely flick hot water everywhere.
+>
+> Take care not to burn yourself.
+
+11. Once most of the pasta has been transferred (or the saucepan is full), drain the rest of the pasta/spinach mixture and place back in stock pot.
+12. Transfer everything in the saucepan to the stock pot and toss to combine.
+13. Serve topped with cheese, capers, and parsley (if using).
 
 ## Notes
 Freezes well. Add cheese and capers to containers before freezing.
