@@ -4,15 +4,15 @@ Adapted from [The Cook Up with Adam Liaw](https://www.sbs.com.au/food/the-cook-u
 ## Ingredients
 - 1000 g dry fettuccine or other pasta (the brand we use is *Woolworths*)
 - 10 L water
-- 230 g extra virgin olive oil
-- half of 230 g jar of capers in vinegar (the brand we use is *Always Fresh*, 230g ℮ including brine)
+- 230 g (1 cup / 250 ml) extra virgin olive oil
+- half of 230 g jar of capers in vinegar (the brand we use is *Always Fresh*, 230g ℮ including vinegar)
 - 1 small onion or 2 eschallots
 - 4-8 garlic cloves (to your taste)
-- 1 bird's eye chilli
-- 1 lemon (alternatively use )
+- 3 whole dried chilli (fresh is also fine)
+- 500 g lemons (alternatively use lemon juice)
 - 125 g frozen chopped spinach (½ bag of *Bell Farms* brand)
 - (optional) parsley to taste
-- cheese
+- cheddar cheese (alternatively salty cheeses like parmesan or haloumi)
 - salt and pepper to taste
 
 ## Equipment
@@ -21,21 +21,23 @@ Adapted from [The Cook Up with Adam Liaw](https://www.sbs.com.au/food/the-cook-u
 - tongs
 - knife
 - cutting board
-- small bowl for the lemon juice and rind
 - collander or strainer
+- cheese grater
+- micro grater for lemon rind
+- small bowl for the lemon juice and rind
 
 ## Overview (see method below for detailed instructions)
-1. Heat oil in saucepan & boil water in stock pot
-2. Once heated, add capers to oil
-3. Once boiling, add pasta and spinach to water, set a timer for the pasta (12 minutes for *Woolies* pasta)
-4. Prepare lemon and aromatics, grate the cheese
-5. Remove capers once done
-6. Add aromatics to oil and cook until fragrant (~5 minutes)
-7. Add lemon to oil and mix well
-8. Once done, use tongs to transfer some pasta to the oilin order to transfer some of the starchy water
-9. Drain the rest of the pasta/spinach and place back in stock pot
-10. Pour the contents of the saucepan into the stock pot and mix well
-11. Serve topped with cheese, capers, and parsley (if using)
+1. Heat oil in saucepan & boil water in stock pot.
+2. Once heated, add capers to oil.
+3. Once boiling, add pasta and spinach to water, set a timer for the pasta (12 minutes for *Woolies* pasta).
+4. Prepare lemon and aromatics, grate the cheese.
+5. Remove capers once done.
+6. Add aromatics to oil and cook until fragrant (~5 minutes).
+7. Add lemon, salt, and pepper to oil and mix well.
+8. Once done, use tongs to transfer some pasta to the oil in order to transfer some of the starchy water.
+9. Drain the rest of the pasta/spinach and place back in stock pot.
+10. Pour the contents of the saucepan into the stock pot and mix well.
+11. Serve topped with cheese, capers, and parsley (if using).
 
 ## Method
 1. Put the olive oil into a small saucepan and put on medium-high heat (gas mark 7).
@@ -48,8 +50,11 @@ Adapted from [The Cook Up with Adam Liaw](https://www.sbs.com.au/food/the-cook-u
    - slice the chilli
    - grate the cheese
 5. Once the capers are removed, add the garlic, onion, chilli, salt, and pepper to the oil and cook for about 5 minutes until fragrant.
-6. Add the lemon juice and rind to the oil and mix well. Cook for a minute, then turn off the heat.
+6. Add the lemon juice, rind, salt, and pepper to the oil and mix well. Cook for a minute, then turn off the heat.
 7. Once the pasta is done, use tongs to transfer the pasta straight into the oil pot in order to transfer some of the starchy water.
 8. Once most of the pasta has been transferred (or the saucepan is full), drain the rest of the pasta/spinach mixture and place back in stock pot.
 9. Transfer everything in the saucepan to the stock pot and toss to combine.
 10. Serve topped with cheese, capers, and parsley (if using).
+
+## Notes
+Freezes well. Add cheese and capers to containers before freezing.
