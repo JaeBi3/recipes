@@ -35,7 +35,7 @@ if using tamarind cake instead of extract:
 1. Soak 2 cups rice and 1 cup toor dhal overnight. If you can't go overnight, wash and set aside 2 cups rice and 1 cup toor dhal.
 2. Chop up all the veg and set aside. Keep onion separate from the rest.
 3. Set the pressure cooker to "Saute" mode.
-4. Add 2 tablespoons ghee, 1 teaspoon mustard seeds, 1 teaspoon cumin seeds, ½ teaspoon asafoetida, and 2 stems fresh curry leaves.
+4. Add 2 tablespoons ghee, 1 teaspoon mustard seeds, 1 teaspoon cumin seeds, and 2 stems fresh curry leaves.
 5. Once the mustard seeds start to pop, add onion and fry until golden brown.
 6. Add garlic and ginger. Fry 3-4 minutes.
 7. Add mixed vegetables, frozen spinach and tomatoes. Cook with the lid on until spinach defrosts and vegetables soften.
