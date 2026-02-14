@@ -82,3 +82,4 @@ Serves 8-20 based on how generous your portion sizes are.
 
 ## Notes
 Freezes well. Add cheese and capers to containers before freezing.
+Defrost in fridge, then reheat in the microwave for 2 minutes at 1100W.
