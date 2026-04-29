@@ -21,6 +21,8 @@ Adapted from [Cooking From Heart](https://cookingfromheart.com/sambar-sadam-pres
 - 2 teaspoons tamarind extract or tamarind cake
 - 2 tablespoons sambar powder
 - 1 teaspoon turmeric powder
+- 2 teaspoons cumin powder
+- 2 teaspoons coriander powder
 - ½ teaspoon asafoetida
 - salt to taste
 
@@ -39,7 +41,7 @@ if using tamarind cake instead of extract:
 5. Once the mustard seeds start to pop, add onion and fry until golden brown.
 6. Add garlic and ginger. Fry 3-4 minutes.
 7. Add mixed vegetables, frozen spinach and tomatoes. Cook with the lid on until spinach defrosts and vegetables soften.
-8. Add 2 tablespoons sambar powder, 1 teaspoon turmeric, ½ teaspoon asafoetida. Cook until the raw smell of the powder disappears.
+8. Add 2 tablespoons sambar powder, 1 teaspoon turmeric, 2 teaspoons cumin powder, 2 teaspoons coriander powder, ½ teaspoon asafoetida. Cook until the raw smell of the powder disappears.
 9. Add rice and dhal. Fry for 3-4 minutes.
 10. Add water and tamarind. Mix well.
 11. Check salt level and add more if required. The liquid should be slightly too salty. This will ensure the right amount of salt once cooked.
